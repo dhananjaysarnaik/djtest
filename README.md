@@ -1,5 +1,5 @@
 
-# palashlalwani.github.io
+# djsarnaik.github.io
 
 Personal Portfolio
 
